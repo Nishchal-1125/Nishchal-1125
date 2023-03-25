@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nishchal-1125
 - 👀 I’m interested in C++ Programming
 - 🌱 I’m currently learning Artificial Intelligence
+- I'm currently learning Web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Nishchalbaluni@gmail.com
 
